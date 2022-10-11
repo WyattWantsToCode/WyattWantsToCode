@@ -4,20 +4,20 @@ Welcome, my name is Wyatt Vaughan and I am a self taught programmer/developer. I
 
 ---
 
+# Resume
 
-
-
-<!--
-**WyattWantsToCode/WyattWantsToCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ## About Me
+>>```dart
+>>//Dart syntax
+>>
+>>String name = "Wyatt Vaughan"
+>>int age = 20;
+>>List<String> knownLanguages = <String>["Dart","Python","C#","Java","C++"]
+>>
+>>void DailyRoutine(){
+>>WakeUp();
+>>WatchTechNews();
+>>Eat(goodFood);
+>>Sleep();
+>>}
+>>```
