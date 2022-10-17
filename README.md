@@ -1,6 +1,6 @@
 ## Wyatt Vaughan -- WyattWantsToCode :sunglasses:
 
-Welcome, my name is **Wyatt Vaughan** and I am a self taught programmer/developer. I am always wanting and willing to learn new and exciting things in the world of tech. :book: I have worked on projects from cross platform apps :iphone: to custom python scripts for OBS. 	:camera_flash:
+Welcome, my name is **Wyatt Vaughan** and I am a self taught programmer/developer. I am always wanting and willing to learn new and exciting things in the world of tech. :book: I have worked on projects from cross platform apps :iphone: to custom python scripts for OBS. :camera_flash:
 
 ---
 
@@ -17,6 +17,7 @@ Welcome, my name is **Wyatt Vaughan** and I am a self taught programmer/develope
 >>void DailyRoutine(){
 >>WakeUp();
 >>WatchTechNews();
+>>Code(duration: 100000000)
 >>Eat(goodFood);
 >>Sleep();
 >>}
